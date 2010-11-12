@@ -1,0 +1,21 @@
+en:
+  ubiquo:
+    menu_item:
+      empty_list_title: "Sitemap"
+      empty_list_message: "Here you can see and modify the application site map. You can create new sections and subsections and reorder them."
+    menus:
+      sitemap: "Sitemap"
+      sitemap_title: "Sitemap"
+      new_section: "New section"
+      title: "Title"
+      actions: "Actions"
+      empty_sitemap: "No sitemap entries found"
+      confirm_sitemap_removal: "Are you sure you want to remove this sitemap entry (and their children nodes)?"
+      new_subsection: "New subsection"
+      subsections: "Subsections"
+      sitemap_created: "Menu item created succesfully"
+      sitemap_create_error: "Error creating menu item"
+      sitemap_updated: "Menu item updated succesfully"
+      sitemap_update_error: "Error editing menu item"
+      sitemap_removed: " Menu item removed succesfully"
+      sitemap_remove_error: "Error removing menu item"

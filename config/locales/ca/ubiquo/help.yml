@@ -1,0 +1,7 @@
+ca:
+  ubiquo:
+    helpmsg:
+      menus:
+        menu_items:
+          index: "Aquí pots veure i modificar el mapa web de l'aplicació. Pots crear noves seccions, subseccions i reordenar-les amb l'icona que es troba a la dreta del nom de la secció."
+          form: "Aquí pots crear o modificar una entrada al mapa web. Aquestes entrades poden ser clickables (en tal cas s'hauria d'especificar una URL). Pels nodes arrel es pot, opcionalment, seleccionar un menú automàtic. En tal cas no està permés afegir-li subseccions."

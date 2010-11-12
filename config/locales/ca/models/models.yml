@@ -1,0 +1,12 @@
+ca:
+  activerecord:
+    models:
+      menu item: "Element de menú"
+    attributes:
+      menu_item:
+        caption: "Títol"
+        is_linkable: "És enllaçable?"
+        url: "Url"
+        description: "Descripció"
+        is_active: "És visible?"
+        menu_generator: "Generador de menú"

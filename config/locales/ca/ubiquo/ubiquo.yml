@@ -1,0 +1,21 @@
+ca:
+  ubiquo:
+    menu_item:
+      empty_list_title: "Mapa Web"
+      empty_list_message: "Aquí pots veure i modificar el mapa web de l'aplicació. Pots crear noves seccions, subseccions i reordenar-les."
+    menus:
+      sitemap: "Sitemap"
+      sitemap_title: "Sitemap"
+      new_section: "Nova secció"
+      title: "Títol"
+      actions: "Accions"
+      empty_sitemap: "No hi ha entrades del mapa web que mostrar"
+      confirm_sitemap_removal: "Estàs segur de voler eliminar aquesta entrada del mapa web (i els seus nodes fills)?"
+      new_subsection: "Nova subsecció"
+      subsections: "Subseccions"
+      sitemap_created: "Element de menú creat amb èxit"
+      sitemap_create_error: "Error al crear l'element de menú"
+      sitemap_updated: "Element de menú editat amb èxit"
+      sitemap_update_error: "Error a l'editar l'element de menú"
+      sitemap_removed: "Element de menú eliminat amb èxit"
+      sitemap_remove_error: "Error a l'eliminar l'element de menú"
