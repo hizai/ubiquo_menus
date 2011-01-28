@@ -75,7 +75,7 @@ module UbiquoMenus
           end
 
           def uhook_edit_menu_item(menu_item)
-            unless menu_item.locale?(current_locale)
+            unless menu_item.in_locale?(current_locale)
               redirect_to(ubiquo_menu_items_path)
               false
             end
