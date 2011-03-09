@@ -1,4 +1,4 @@
-class Ubiquo::MenuItemsController < UbiquoAreaController
+class Ubiquo::MenuItemsController < UbiquoController
   ubiquo_config_call :sitemap_access_control, {:context => :ubiquo_menus}
     
   # GET /menu_items
